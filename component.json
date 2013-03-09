@@ -1,0 +1,9 @@
+{
+  "name": "flight-example",
+  "description": "Tiny demo built in flight",
+  "version": "1.0.0",
+  "dependencies": {
+    "flight": "1.0.3",
+    "requirejs": "latest"
+  }
+}
