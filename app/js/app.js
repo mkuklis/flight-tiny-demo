@@ -3,7 +3,7 @@
 define(
 
   [
-    './ui/Link',
+    './ui/link',
     './ui/box',
     './ui/list'
   ],
